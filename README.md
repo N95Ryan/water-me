@@ -36,8 +36,6 @@ npm run dev
 - [Supabase](https://supabase.com)
 - [Web Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:
